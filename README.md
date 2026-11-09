@@ -16,5 +16,4 @@ Face/Surface **面** family (siblings `ura` 裏 internal-tests, `men` 面 surfac
 `alias nix=sui` SUPERSET passthrough is **shipped in sui** (`try_parse` →
 `exec_cppnix_passthrough`, guaranteed superset by construction). omote's `(defcase)`
 engine (`ShellEnvironment` + the 3 modes) is authored inside `dojo` from the start
-(it consumes `dojo-types` + `dojo-differential`) — dojo M3. Doctrine:
-[`theory/DOJO.md`] §5.
+(it consumes `dojo-types` + `dojo-differential`) — dojo M3.
